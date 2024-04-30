@@ -5,7 +5,7 @@ from discord import Intents, Client, Message
 from random import choice, randint
 import openai
 import json
-import pandas as pd;
+import pandas as pd
 import pymysql
 
 ###TOKEN LINE HERE, TOLD ME TO REMOVE FOR SECURITY REASONS
