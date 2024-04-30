@@ -8,6 +8,9 @@ import json
 import pandas as pd;
 import pymysql
 
+###TOKEN LINE HERE, TOLD ME TO REMOVE FOR SECURITY REASONS
+
+
 # Step 1: BOT SETUP Without intents your bot won't respond
 intents: Intents = Intents.default()
 intents.message_content = True  # NOQA
