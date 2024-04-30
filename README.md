@@ -1,6 +1,6 @@
 # DS2002FinalProject
 
-Your analysis should look at the relationship between all data fields and their changes over time. In a brief statement, describe any changes or patterns you observe, and propose an explanation for them. Include this in your GitHub repository.
+PART 1 BENCHMARK 5: Your analysis should look at the relationship between all data fields and their changes over time. In a brief statement, describe any changes or patterns you observe, and propose an explanation for them. Include this in your GitHub repository.
 
 The factor element increases over time in a cubic relationship, starting at 1 at the beginning of the hour, then 8 a minute later, then 27, then 64, and so on, until it reaches 205379/the end of the hour, upon which the factor element resets to 1. 
 
